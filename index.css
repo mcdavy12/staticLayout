@@ -1,0 +1,107 @@
+
+.header {
+    height: 83px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 19px 20px;
+    z-index: 9999;
+}
+
+#logo-container {
+  width: 201px;
+  height: auto;
+  top: 19px;
+  left: 20px;
+  padding: 0;
+}
+
+#openkastbutton {
+    position: relative;
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    width: 100px;
+    height: 20px;
+    top: -45px;
+    left: 1015px;
+}
+
+.topnav {
+    position: fixed;
+    background-color:transparent;
+    top: 13px;
+    left: 520px;
+  }
+
+  li{
+      display: inline;
+      padding: 5px 15px;
+      font-size: 20px;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      
+  }
+
+.body2 {
+    position: relative;
+    top: 160px;
+
+}
+h2 {
+    font-size: 30px;
+    color: white;
+    font-family: inherit;
+    text-align: center;
+}
+
+p {
+    position: inherit;
+    font-size: 22;
+    text-align: center;
+    color: white;
+
+}
+
+.button {
+    position: relative;
+    text-align: center;
+    height: 30px;
+    width: 125px;
+    left: 555px;
+    top: 20px;
+    padding: 7px;
+    background-color: rgb(238, 191, 37);
+}
+
+.body3 {
+    text-align: center;
+    top: 150px;
+    position: relative;
+    font-size: 30px;
+    background-color: white;
+
+}
+
+.p2 {
+    color: black;
+    font-size: 30;
+    font-weight: bold;
+}
+
+.featuredlogos {
+    position: relative;
+    top: 130px;
+    background-color: white;
+  
+}
+
+h3 {
+    color: black;
+    font-size: 36px;
+    text-align: center;
+
+}
